@@ -1,0 +1,10 @@
+Make,Model,engine size & type,male,female
+Ford,Taurus,3.5L6,1,1
+Ford,Fseries,5.0L8,1,1
+Ford,Fseries,3.5L6,1,
+Chevy,Corvette,6.2L8,1,1
+Chevy,Camaro,6.2L8,,1
+Honda,Civic,1.5L4,2,
+Ford,Mustang,2.3L4,1,
+Toyota,Highlander,3.5L6,,1
+Toyota,Prius,1.5L4-Hybrid,1,1
